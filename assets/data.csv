@@ -1,0 +1,6 @@
+customer_id,store_id,first_name,last_name,email,address_id,activebool,create_date,last_update,active
+601,1,Amin,Espinoza,amin.espinoza@email.com,5,true,2025-04-29,2025-04-29,1
+602,2,Oscar,Barajas,oscar.barajas@email.com,8,true,2025-04-29,2025-04-29,1
+603,1,Felipe,Solem,felipe.solem@email.com,12,false,2025-04-29,2025-04-29,0
+604,2,Ana,Salazar,ana.salazar@email.com,23,true,2025-04-29,2025-04-29,1
+605,1,Wilmer,Garzon,wilmer.garzon@email.com,43,false,2025-04-29,2025-04-29,0
